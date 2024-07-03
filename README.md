@@ -19,7 +19,7 @@ java -jar <nombreProyecto>-jar-with-dependencies.jar
 
 ## Recursos
 ### Ejemplo de uso por consola del usuario
-![diagrama](https://github.com/Brayan-22/CRUD/blob/main/diagrama%20base%20de%20datos.png?raw=true)
+![diagrama](https://github.com/Brayan-22/Conversor-monedas-Java/blob/master/ejemplo.png?raw=true)
 
 ### Version de Java
 _Java 21_
